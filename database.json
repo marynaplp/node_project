@@ -1,0 +1,45 @@
+[
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 1,
+  "rssi": 5,
+  "timestampreader": 1668197940000,
+  "timestamprecv": 1668111428023
+ },
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 2,
+  "rssi": 5,
+  "timestampreader": 1668802440000,
+  "timestamprecv": 1668111166624
+ },
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 2,
+  "rssi": 7,
+  "timestampreader": 1669398960000,
+  "timestamprecv": 1668102745897
+ },
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 1,
+  "rssi": 5,
+  "timestampreader": 1668794160000,
+  "timestamprecv": 1668102767218
+ },
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 2,
+  "rssi": 6,
+  "timestampreader": 1668197700000,
+  "timestamprecv": 1668111226629
+ },
+ {
+  "epc": "mnnnnnnnnnnnnnnnoooooooo",
+  "antenna": 2,
+  "rssi": 3,
+  "timestampreader": 1668197940000,
+  "timestamprecv": 1668111473862
+ }
+]/
+// те що ми записали з сервера 
